@@ -11,7 +11,7 @@ notas.forEach(nota =>{
 let media = somaDasNotas/notas.length;
 
 console.log(media);
-
+// metodo callback
 //declaração de função
 // notas.forEach(function(nota){
 //     somaDasNotas += nota;
